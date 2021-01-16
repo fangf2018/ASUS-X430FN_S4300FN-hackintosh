@@ -706,24 +706,6 @@
                     <key>Arch</key>
                     <string>x86_64</string>
                     <key>BundlePath</key>
-                    <string>CodecCommander.kext</string>
-                    <key>Comment</key>
-                    <string></string>
-                    <key>Enabled</key>
-                    <false/>
-                    <key>ExecutablePath</key>
-                    <string>Contents/MacOS/CodecCommander</string>
-                    <key>MaxKernel</key>
-                    <string></string>
-                    <key>MinKernel</key>
-                    <string></string>
-                    <key>PlistPath</key>
-                    <string>Contents/Info.plist</string>
-                </dict>
-                <dict>
-                    <key>Arch</key>
-                    <string>x86_64</string>
-                    <key>BundlePath</key>
                     <string>VoodooI2C.kext/Contents/PlugIns/VoodooGPIO.kext</string>
                     <key>Comment</key>
                     <string></string>
@@ -1444,7 +1426,7 @@
                     <key>SystemAudioVolume</key>
                     <data></data>
                     <key>boot-args</key>
-                    <string>darkwake=0 agdpmod=vit9696 igfxonln=1 gfxrst=1 -v alcid=77</string>
+                    <string>darkwake=0 agdpmod=vit9696 igfxonln=1 gfxrst=1 -v alcid=77 -alcverb</string>
                     <key>csr-active-config</key>
                     <data>5wsAAA==</data>
                     <key>prev-lang:kbd</key>
@@ -1513,9 +1495,9 @@
                 <key>AdviseWindows</key>
                 <false/>
                 <key>MLB</key>
-                <string>C02907102QXJH4RUE</string>
+                <string>C020154044NJH4R1M</string>
                 <key>ProcessorType</key>
-                <integer>1793</integer>
+                <integer>0</integer>
                 <key>ROM</key>
                 <data>kD/d8HpH</data>
                 <key>SpoofVendor</key>
@@ -1525,9 +1507,9 @@
                 <key>SystemProductName</key>
                 <string>MacBookPro15,2</string>
                 <key>SystemSerialNumber</key>
-                <string>C02Y8MY0JHCC</string>
+                <string>C02CK0KCJHCC</string>
                 <key>SystemUUID</key>
-                <string>899D4F3C-7D73-4D55-BB50-AC6657DA6F35</string>
+                <string>44ACD37C-09D2-4C06-BEB9-96575E5AA6B4</string>
             </dict>
             <key>UpdateDataHub</key>
             <true/>
