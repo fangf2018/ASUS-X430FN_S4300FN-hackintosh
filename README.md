@@ -15,7 +15,15 @@
 * 触摸板：i2c轮询
 
 ##更新日志
+2020-01-18
+
+* 定制声卡id为88，提交合并到applealc [查看](https://github.com/acidanthera/AppleALC/pull/650) 
+  该id为内置麦克风与外置麦克风分离，无需安装ComboJack 麦克风切换需要到系统便好设置进行手动切换
+  
+  ![](github.fangf.cc/mweb/16108895944286.jpg)
 
 2020-01-17
 
-* 制声卡id为77，提交合并到applealc [查看](https://github.com/acidanthera/AppleALC/pull/650) alcid=56 开机默认为外置扬声器
+* 定制声卡id为77，提交合并到applealc [查看](https://github.com/acidanthera/AppleALC/pull/650) 
+  此id为内置麦克风外置麦克风合并，切换需要依靠ComboJack，插入耳麦会自动弹窗进行选择
+  ⚠️从win10热重启到mac默认为外置麦克风，需要关机开机才会默认切换为内置麦克风
