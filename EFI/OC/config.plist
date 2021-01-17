@@ -1426,7 +1426,7 @@
                     <key>SystemAudioVolume</key>
                     <data></data>
                     <key>boot-args</key>
-                    <string>darkwake=0 agdpmod=vit9696 igfxonln=1 gfxrst=1 -v alcid=77 -alcverb</string>
+                    <string>darkwake=0 agdpmod=vit9696 igfxonln=1 gfxrst=1 -v alcid=88 -alcverb</string>
                     <key>csr-active-config</key>
                     <data>5wsAAA==</data>
                     <key>prev-lang:kbd</key>
@@ -1495,7 +1495,7 @@
                 <key>AdviseWindows</key>
                 <false/>
                 <key>MLB</key>
-                <string>C020154044NJH4R1M</string>
+                <string>C02905101GUJH4RJA</string>
                 <key>ProcessorType</key>
                 <integer>0</integer>
                 <key>ROM</key>
@@ -1507,9 +1507,9 @@
                 <key>SystemProductName</key>
                 <string>MacBookPro15,2</string>
                 <key>SystemSerialNumber</key>
-                <string>C02CK0KCJHCC</string>
+                <string>C02Y6KYJJHCC</string>
                 <key>SystemUUID</key>
-                <string>44ACD37C-09D2-4C06-BEB9-96575E5AA6B4</string>
+                <string>AFF240D0-F7EE-4DF1-BDCF-8AB566D2D581</string>
             </dict>
             <key>UpdateDataHub</key>
             <true/>
