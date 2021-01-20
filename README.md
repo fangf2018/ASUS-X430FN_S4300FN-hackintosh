@@ -1,11 +1,11 @@
 # ASUS-X430FN_S4300FN-hackintosh
 
-##配置
+## 配置
 
 * 华硕灵耀S 2代 S4300FN
 * CPU：i5 8265U
 
-##驱动情况
+## 驱动情况
 
 * 显卡：核心显卡驱动正常，外接HDMI正常
 * 声卡：alc256 id注入56
@@ -14,7 +14,7 @@
 * USB：3.0最大速率5G，右侧type-c接口未驱动
 * 触摸板：i2c轮询
 
-##更新日志
+## 更新日志
 2020-01-18
 
 * 定制声卡id为88，提交合并到applealc [查看](https://github.com/acidanthera/AppleALC/pull/650) 
